@@ -1,9 +1,9 @@
 ---
-title: Software and applications for lawyers
-subtitle: 'Automate the boring stuff using technology. '
+title: Techlawyer
+subtitle: 'Automate the boring stuff with technology. '
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Tired of doing boring clerical work?
+  heading: Tired of doing clerical work?
   text: >-
     techlawyer is website for lawyers who want to stop doing busywork like
     manually updating your court diary, spending hours formatting word documents
