@@ -1,20 +1,42 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: Software and applications for lawyers
+subtitle: 'Automate the boring stuff using technology. '
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Tired of doing boring clerical work?
+  text: >-
+    techlawyer is website for lawyers who want to stop doing busywork like
+    manually updating your court diary, spending hours formatting word documents
+    or manually writing page numbers in the corner of a page and focus on work
+    that really counts. If you want to take your law practice to the next level,
+    you are in the right place.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: What we offer
+  text: >-
+    techlawyer is the ultimate website for lawyers looking to up their game. We
+    offer document automation software for lawyers and have a list of practical
+    software's and tips that lawyers can use to improve their practice. We live
+    in the intersection of law and  technology. We’re glad to pass that
+    knowledge to anyone. 
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/illustrations-coffee.svg
+    text: >-
+      Stop using Cut,copy,paste. Send us your legal document drafts and let us
+      make them into beautiful forms that you can use. Save time and create
+      error free drafts in just minutes. We offer our service to both litigating
+      lawyers and to commercial lawyers. 
+  - image: /img/illustrations-coffee-gear.svg
+    text: >
+      We offer a small, but carefully curated selection of apps and tips that
+      you can use to improve your efficiency. No matter if you are a microsoft
+      word power user or someone who still struggles to use basic bullet point
+      features, you'll find apps and tips that you will love.  
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our process of document automation
+  text: >-
+    We will first talk to you to find your current process of document drafting.
+    We will then work with you to create and finalise standard document. We will
+    then work our magic and transform the document into a series of questions
+    that you have to answer. We will then use our document automation software
+    to connect the questions and the documents together. You are good to go.
 ---
-
