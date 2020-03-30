@@ -19,13 +19,13 @@ intro:
     in the intersection of law and  technology. We’re glad to pass that
     knowledge to anyone. 
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/document-automation.jpg
     text: >-
       Stop using Cut,copy,paste. Send us your legal document drafts and let us
       make them into beautiful forms that you can use. Save time and create
       error free drafts in just minutes. We offer our service to both litigating
       lawyers and to commercial lawyers. 
-  - image: /img/illustrations-coffee-gear.svg
+  - image: img/carl-heyerdahl-ke0nc8-58mq-unsplash.jpg
     text: >
       We offer a small, but carefully curated selection of apps and tips that
       you can use to improve your efficiency. No matter if you are a microsoft
