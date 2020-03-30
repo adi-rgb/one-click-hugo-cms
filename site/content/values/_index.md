@@ -23,7 +23,7 @@ values:
     text: >-
       We will enable the software using either a cloud-based model or using a
       system based model. We will also train you on how to use the software. 
-    imageUrl: /img/about-direct-sourcing.jpg
+    imageUrl: img/screenshot-2020-03-30-at-17.33.01.png
   - heading: Continuous enhancement
     text: >
       We will continue to work with you for a few months to ensure that your
