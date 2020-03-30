@@ -8,8 +8,7 @@ blurb:
     techlawyer is website for lawyers who want to stop doing busywork like
     manually updating your court diary, spending hours formatting word documents
     or manually writing page numbers in the corner of a page and focus on work
-    that really counts. If you want to take your law practice to the next level,
-    you are in the right place.
+    that really counts. 
 intro:
   heading: What we offer
   text: >-
