@@ -1,45 +1,32 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: Our automaion process
+image: img/screen-web-design-developing-codes-1936299.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: Initial consultation
+    text: >-
+      We will first talk to you to find out where you stand in terms of document
+      automation. This helps us to effectively create a roadmap on how best we
+      can use document automation for your practice. 
+    imageUrl: /img/about-shade-grown.jpg
+  - heading: Data collection
+    text: >-
+      We will then collect all available data from you. Using the data we have
+      obtained from you, we will finalise the templates to be used. 
+    imageUrl: /img/about-single-origin.jpg
+  - heading: Data transformation
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      We will then prepare a questionnaire with in-built customization
+      capabilities. We will enable you to use simple features like checkboxes,
+      radio-buttons and drop-down options to customize your document. 
+    imageUrl: /img/about-sustainable-farming.jpg
+  - heading: Implimentation
+    text: >-
+      We will enable the software using either a cloud-based model or using a
+      system based model. We will also train you on how to use the software. 
+    imageUrl: /img/about-direct-sourcing.jpg
+  - heading: Continuous enhancement
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      We will continue to work with you for a few months to ensure that your
+      team is using the document automation solution. 
+    imageUrl: /img/about-reinvest-profits.jpg
 ---
