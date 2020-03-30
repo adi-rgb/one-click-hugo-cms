@@ -1,7 +1,7 @@
 ---
 title: Techlawyer
 subtitle: 'Automate the boring stuff with technology. '
-image: /img/home-jumbotron.jpg
+image: img/book-shelves-book-stack-bookcase-books-207662.jpg
 blurb:
   heading: Tired of doing clerical work?
   text: >-
