@@ -32,10 +32,5 @@ products:
       features, you'll find apps and tips that you will love.  
 values:
   heading: Our process of document automation
-  text: >-
-    We will first talk to you to find your current process of document drafting.
-    We will then work with you to create and finalise standard document. We will
-    then work our magic and transform the document into a series of questions
-    that you have to answer. We will then use our document automation software
-    to connect the questions and the documents together. You are good to go.
+  text: 'We use a simple 5 step process to help you automate your documents. '
 ---
